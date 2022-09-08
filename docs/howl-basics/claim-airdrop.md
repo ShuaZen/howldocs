@@ -17,7 +17,7 @@ You'll requested to add "Uni wallet-3" chain, wich mean is JUNO Testnet, and tha
 
 ![banner](/img/Screenshot_23.png)
 
-After that you should be able to see <your-address> **can claim X HOWL** after connecting your wallet. If you are not eligible, you will see <your-address> **was not eligible** for the Howl airdrop.
+After that you should be able to see `<your-address> can claim X HOWL` after connecting your wallet. If you are not eligible, you will see `<your-address> was not eligible for the Howl airdrop`.
 
 ![banner](/img/Screenshot_24.png)
   
